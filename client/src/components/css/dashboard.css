@@ -1,0 +1,38 @@
+@font-face {
+    font-family: episodeone;
+    src: url(EPISODE1.TTF);
+}
+@font-face {
+    font-family: anakinmono;
+    src: url(anakinmono.ttf);
+}
+.main-dash-con{
+    color: white;
+}
+.grid-dash-con{
+    padding: 2em;
+}
+.wel-txt{
+    font-size: 1.3em;
+    text-align: center;
+    padding: 2em;
+    font-family: episodeone;
+    word-spacing: 0.3em;
+
+}
+
+.type-title{
+    background-color: rgba(22, 44, 102, 0.835);
+    padding: 1em;
+    font-family: episodeone;
+    word-spacing: 0.3em;
+    font-size: larger;
+    border-radius: 1em 1em 0 0;
+    
+}
+.toggle-class{
+    text-align: center;
+    font-family: anakinmono;
+    word-spacing: 0.3em;
+
+}

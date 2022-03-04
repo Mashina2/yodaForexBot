@@ -1,0 +1,4 @@
+2015-01-01 00:00:00 Launching analysis for 1739145363 with LEAN Engine v2.5.0.0
+2015-04-17 20:00:00 Warning: all market orders sent using daily data, or market orders sent after hours are automatically converted into MarketOnOpen orders.
+2020-06-04 12:00:00 Algorithm Stopped
+2020-06-04 12:00:00 Algorithm Id:(1739145363) completed in 3.71 seconds at 3k data points per second. Processing total of 10,834 data points.

@@ -1,0 +1,38 @@
+
+@font-face {
+    font-family: moonhouse;
+    src: url(Moonhouse-yE5M.ttf);
+  }
+
+.nav-bar{
+    background-image: url('./navBarBackgroud.png');
+    
+}
+.navbar-heading{
+    font-family: moonhouse;
+    font-size: 2em;
+    text-shadow: 4px 4px 10px #98a437;
+}
+.navbar-grid{
+    padding: 1em;
+}
+.navbar-btn{
+    font-family: moonhouse;
+    font-size: 1.8em;
+}
+
+.navbar-btn:hover{
+    
+    border: white solid 2px;
+    box-shadow:  2px 2px #98a437;
+    padding: 0.6em;
+    background-color: #98a437;
+    border-radius: 15px;
+}
+.nav-links{
+    color: white;
+    text-decoration: none;
+}
+.nav-links:visited{
+    color: white;
+}

@@ -1,0 +1,22 @@
+@font-face {
+    font-family: episodeone;
+    src: url(EPISODE1.TTF);
+}
+
+.homeContainer{
+    height: 100vh;
+    background-color: #040508;
+    color: white;
+    text-align: center;
+    padding: 3em;
+}
+.grid-con{
+    padding-left: 2em;
+}
+.home-text-con{
+    font-size: 1.5em;
+    font-family: episodeone;
+    word-spacing: .3em;
+    
+    
+}

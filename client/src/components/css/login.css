@@ -1,0 +1,29 @@
+@font-face {
+    font-family: episodeone;
+    src: url(EPISODE1.TTF);
+}
+
+.mainLoginContainer{
+    height:100%;
+    padding: 4em;
+}
+.sub-login-con span{
+    color: white;
+    font-size: 1.4em;
+    word-spacing: 0.3em;
+    display: block;
+    text-align: center;
+}
+.sub-login-con img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.sub-login-con{
+    background-color: rgba(240, 248, 255, 0.294);
+    font-family: episodeone;
+    padding: 2em;
+
+}
+
